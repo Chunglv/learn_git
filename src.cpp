@@ -115,6 +115,16 @@ void FunctionL2()
 	printf("Function L2 Completed");
 }
 
+void FunctionM1()
+{
+	printf("Function M1 Completed");
+}
+
+void FunctionM2()
+{
+	printf("Function M2 Completed");
+}
+
 int main()
 {
 }
