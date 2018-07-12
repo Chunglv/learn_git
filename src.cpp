@@ -44,6 +44,17 @@ void FunctionC4()
 {
     printf("Function C4 Completed");
 }
+
+void FunctionD3()
+{
+    printf("Function D3 Completed");
+}
+
+void FunctionD4()
+{
+    printf("Function D4 Completed");
+}
+
 int main()
 {
 }
