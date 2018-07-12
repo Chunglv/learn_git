@@ -75,6 +75,26 @@ void FunctionE2()
     printf("Function E2 Completed");
 }
 
+void FunctionG1()
+{
+    printf("Function G1 Completed");
+}
+
+void FunctionG2()
+{
+    printf("Function G2 Completed");
+}
+
+void FunctionH1()
+{
+    printf("Function H1 Completed");
+}
+
+void FunctionH2()
+{
+    printf("Function H2 Completed");
+}
+
 int main()
 {
 }
