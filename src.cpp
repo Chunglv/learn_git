@@ -25,6 +25,15 @@ void FunctionC2()
     printf("Function C2 Completed");
 }
 
+void FunctionD1()
+{
+    printf("Function D1 Completed");
+}
+
+void FunctionD2()
+{
+    printf("Function D2 Completed");
+}
 int main()
 {
 }
