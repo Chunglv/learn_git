@@ -95,6 +95,16 @@ void FunctionH2()
     printf("Function H2 Completed");
 }
 
+void FunctionK1()
+{
+	printf("Function K1 Completed");
+}
+
+void FunctionK2()
+{
+	printf("Function K2 Completed");
+}
+
 int main()
 {
 }
